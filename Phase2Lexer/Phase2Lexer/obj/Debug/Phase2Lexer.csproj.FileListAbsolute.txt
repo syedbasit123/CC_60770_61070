@@ -1,0 +1,6 @@
+F:\univeristyData\networkProgramming\Phase2Lexer\Phase2Lexer\bin\Debug\Phase2Lexer.exe.config
+F:\univeristyData\networkProgramming\Phase2Lexer\Phase2Lexer\obj\Debug\Phase2Lexer.csprojResolveAssemblyReference.cache
+F:\univeristyData\networkProgramming\Phase2Lexer\Phase2Lexer\bin\Debug\Phase2Lexer.exe
+F:\univeristyData\networkProgramming\Phase2Lexer\Phase2Lexer\bin\Debug\Phase2Lexer.pdb
+F:\univeristyData\networkProgramming\Phase2Lexer\Phase2Lexer\obj\Debug\Phase2Lexer.exe
+F:\univeristyData\networkProgramming\Phase2Lexer\Phase2Lexer\obj\Debug\Phase2Lexer.pdb

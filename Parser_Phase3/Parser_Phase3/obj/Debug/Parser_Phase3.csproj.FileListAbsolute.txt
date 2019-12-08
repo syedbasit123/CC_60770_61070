@@ -1,0 +1,6 @@
+F:\univeristyData\networkProgramming\Parser_Phase3\Parser_Phase3\bin\Debug\Parser_Phase3.exe.config
+F:\univeristyData\networkProgramming\Parser_Phase3\Parser_Phase3\bin\Debug\Parser_Phase3.exe
+F:\univeristyData\networkProgramming\Parser_Phase3\Parser_Phase3\bin\Debug\Parser_Phase3.pdb
+F:\univeristyData\networkProgramming\Parser_Phase3\Parser_Phase3\obj\Debug\Parser_Phase3.csprojResolveAssemblyReference.cache
+F:\univeristyData\networkProgramming\Parser_Phase3\Parser_Phase3\obj\Debug\Parser_Phase3.exe
+F:\univeristyData\networkProgramming\Parser_Phase3\Parser_Phase3\obj\Debug\Parser_Phase3.pdb
